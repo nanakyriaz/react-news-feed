@@ -1,5 +1,5 @@
 {
-  "name": "react-transform-boilerplate",
+  "name": "react-news-feed",
   "version": "1.0.0",
   "description": "NewsFeed on React (Reuters sample feed used)",
   "scripts": {
